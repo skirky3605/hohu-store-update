@@ -1,8 +1,11 @@
 [stable]
 version=1.0
+downloadable=false
 
 [preview]
 version=1.0
+downloadable=false
 
 [dev]
 version=1.0
+downloadable=false
